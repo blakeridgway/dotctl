@@ -31,3 +31,4 @@ See [TODO.md](TODO.md) for planned features and improvements.
 4. Submit a PR
 
 ## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file.
