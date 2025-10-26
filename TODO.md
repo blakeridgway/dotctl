@@ -8,10 +8,10 @@
 	- copy file entires
 	- render template entries
 	- backup existing targets
-- [ ] Implement `dotctl bootstrap`
+- [x] Implement `dotctl bootstrap`
 	- package install (apt, brew, flatpak)
 	- simple `run_once` scripts
-- [ ] Add basic CLI with `clap`/`structopt`
+- [x] Add basic CLI with `clap`/`structopt`
 - [ ] Write unit tests for manifests parsing and sync logic
 
 ## QoL Updates
