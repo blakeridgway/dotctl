@@ -1,6 +1,12 @@
 [package]
 name = "dotctl"
 version = "0.1.0"
+authors = ["Blake Ridgway <blake@blakeridway.com>"]
 edition = "2024"
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/blakeridgway/dotctl"
+repository = "https://github.com/blakeridgway/dotctl"
+description = "A dotfile and dev environment manager."
 
 [dependencies]
