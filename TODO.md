@@ -2,8 +2,8 @@
 
 ## Core MVP
 
-- [ ] Parse `dotfiles.toml` manifest
-- [ ] Implement `dotctl sync`
+- [x] Parse `dotfiles.toml` manifest
+- [x] Implement `dotctl sync`
 	- symlink entries
 	- copy file entires
 	- render template entries
